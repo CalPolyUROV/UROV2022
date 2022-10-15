@@ -39,9 +39,7 @@ jobs:
         
       # Build sphinx source files
       - name: Build sphinx files
-        run: |
-          cd docs
-          make html
+        run: make html
         
       # Publish build files
       - name: Deploy to GitHub Pages

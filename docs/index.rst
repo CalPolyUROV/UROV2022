@@ -13,10 +13,7 @@ UROV 2019: Documentation Home
   :hidden:
   :maxdepth: 3
   :caption: Getting Started
-
   getting-started/github-setup
-  getting-started/pros-setup
-  getting-started/nerdylib-installation
 
 .. meta::
   :description: UROV 2019 Documentation Site 

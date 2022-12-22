@@ -7,4 +7,4 @@ sphinx-favicon==0.2
 furo==2022.9.29
 sphinxnotes-strike==1.2
 pycodestyle==2.9.1
-attrs==22.1.0
+attrs==22.2.0

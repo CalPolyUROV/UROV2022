@@ -3,7 +3,7 @@ sphinx-tabs==3.4.1
 sphinx-autobuild==2021.3.14
 livereload==2.6.3
 myst-parser==0.18.1
-sphinx-favicon==0.2
+sphinx-favicon==1.0.1
 furo==2022.9.29
 sphinxnotes-strike==1.2
 pycodestyle==2.9.1
